@@ -14,3 +14,10 @@ Location
 
 Screenshot
 ---
+
+![homepage](https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Screenshot/homepage.png)
+
+
+![search](https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Screenshot/search.png)
+
+![translation](https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Screenshot/translation.png)
