@@ -1,0 +1,82 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document url-prefix(http://www.google),
+               url-prefix(http://images.google),
+               url-prefix(http://news.google),
+               url-prefix(http://blogsearch.google),
+               url-prefix(http://books.google),
+               url-prefix(http://209.85.165.104),
+               url-prefix(http://translate.google),
+               url-prefix(http://video.google),
+               url-prefix(https://translate.google),
+               url-prefix(https://encrypted.google),
+               url-prefix(https://www.google),
+               url-prefix(https://www.google),
+               url-prefix(https://images.google),
+               url-prefix(https://news.google),
+               url-prefix(https://blogsearch.google),
+               url-prefix(https://books.google),
+               url-prefix(https://209.85.165.104),
+               url-prefix(https://translate.google),
+               url-prefix(https://video.google)
+{
+
+img#hplogo {
+    box-sizing: border-box;
+    background: url("https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Anime/hestia-home.gif") center no-repeat !important;
+    padding-left: 521px;
+    bottom: 155px;
+    z-index: -999;
+    position: relative;
+    padding-bottom: 335px;
+    margin: auto;
+}
+
+#gt-src-wrap {
+    background: url("https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Anime/hestia-translate.gif") 44% 37% no-repeat;
+    background-attachment: fixed;
+}
+
+#hplogo > div {
+    display:none;
+}
+
+div#hplogo[style] {
+    position:relative;
+    top: -213px;
+}
+
+#hplogo {
+    text-indent: -9000px !important;
+    white-space: nowrap;
+}
+
+textarea { 
+    color:#fff;
+}
+
+.mw {
+    background: url("https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Anime/hestia-web.gif") 80% 100% no-repeat;
+    background-attachment: fixed;
+}
+
+#logo img {
+    background: url("https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Anime/hestia-logo.gif") 17% 13% no-repeat !important;
+}
+
+div#hplogo {
+    box-sizing: border-box;
+    background: url("https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Anime/hestia-home.gif") center no-repeat !important;
+    padding-left: 521px;
+    bottom: 101px;
+    z-index: -999;
+    position: relative;
+    padding-bottom: 335px;
+    margin: auto;
+}
+
+.sbibod, .jhp input[type="submit"] {
+    opacity: 0.7;
+}
+
+}
